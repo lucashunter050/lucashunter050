@@ -1,4 +1,4 @@
-Hello, I am Lucas Hunter, and I am a sophomore computer science student at USC. I program for my classes and USC Rocket Propulsion Lab.
+Hello, I am Lucas Hunter, and I am a senior computer science student at USC. I program for my classes and clubs at USC.
 
 I mostly write in C++, but I am also comfortable in React and React Native.
 
