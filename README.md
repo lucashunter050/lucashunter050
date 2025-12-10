@@ -1,4 +1,4 @@
-Hello, I am Lucas Hunter, I like writing iOS and React code.
+Hello, I am Lucas Hunter, and I like writing iOS and React code.
 
 <!---
 lucashunter050/lucashunter050 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
