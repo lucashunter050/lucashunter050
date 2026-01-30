@@ -1,4 +1,4 @@
-Hello, I am Lucas Hunter, and I like writing iOS and React code.
+I write React at ProDex Labs
 
 <!---
 lucashunter050/lucashunter050 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
